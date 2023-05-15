@@ -1,0 +1,1 @@
+/*Somente o grid horizontal seg, ter, qua*/
